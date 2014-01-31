@@ -1,0 +1,9 @@
+1. options = {"memory", "assembly", "compiler", "custom"}
+
+2. return options[-1] should be return options[choice-1]
+
+3. $1 = 59
+
+4. type = int[3]
+
+5. There's not enough space or memory to hold that amount in the array.
